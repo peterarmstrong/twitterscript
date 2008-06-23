@@ -1,0 +1,8 @@
+This is a fork of http://code.google.com/p/twitterscript/ for
+use in Hello! Flex 3.
+
+The reason I am forking the library is that I need to control
+it so that the book does not depend on something that could
+change. The original project is obviously free to take all the
+code that it wants from this fork: the license is obviously
+unchanged (Apache 2).
